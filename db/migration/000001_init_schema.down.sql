@@ -1,0 +1,5 @@
+DROP TABLE IF EXISTS tokens;
+DROP TABLE IF EXISTS products;
+DROP TABLE IF EXISTS receivings;
+DROP TABLE IF EXISTS pickup_points;
+DROP TABLE IF EXISTS users;
